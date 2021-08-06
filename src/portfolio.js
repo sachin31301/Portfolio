@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A Software Engineer who likes to work on Softwares and scalable  Application which uses modern technologies like machine learning  to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/1kepy5kkB7R_3BuILO9luTIq6bMONajcg/view?usp=sharing",
   portfolio_repository: "https://github.com/Sachin1919/masterPortfolio",
 };
 
