@@ -5,7 +5,7 @@
       "name": "Alumi_Connect_Job_Portal",
       "createdAt": "2021-01-16T10:35:42Z",
       "url": "https://github.com/sachin31301/Alumi_Connect_Job_Portal",
-      "description": "Repository of Project Alumni-Connect",
+      "description": "A Repository of Project Alumni-Connect where alumni can post jobs and student can search jobs",
       "isFork": false,
       "languages": [
         {
@@ -27,7 +27,7 @@
       "name": "GitByGraph",
       "createdAt": "2021-01-16T11:26:39Z",
       "url": "https://github.com/sachin31301/GitByGraph",
-      "description": "A repository of my project GitByGraph",
+      "description": "A web app to see github profiles in more interactive manner usig charts",
       "isFork": false,
       "languages": [
         {
@@ -49,7 +49,7 @@
       "name": "NewsByVoice",
       "createdAt": "2021-01-16T11:31:40Z",
       "url": "https://github.com/sachin31301/NewsByVoice",
-      "description": "Repository of my project NewsByVoice (Voice Enabled)",
+      "description": "A web app to search news using voice assistant",
       "isFork": false,
       "languages": [
         {
@@ -71,7 +71,7 @@
       "name": "Naina_Graphics",
       "createdAt": "2021-02-24T12:36:59Z",
       "url": "https://github.com/sachin31301/Naina_Graphics",
-      "description": null,
+      "description": "Website for a local area shop",
       "isFork": false,
       "languages": [
         {
@@ -81,6 +81,50 @@
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGJvEXA",
+      "name": "AI-CAPTIONER",
+      "createdAt": "2021-10-02T17:10:35Z",
+      "url": "https://github.com/sachin31301/AI-CAPTIONER",
+      "description": "A web app which can give information about a image",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDQyMTQ0NzM=",
+      "name": "FACEDEI-Frontend",
+      "createdAt": "2021-09-08T04:50:01Z",
+      "url": "https://github.com/sachin31301/FACEDEI-Frontend",
+      "description": "Face recognition based attendance system",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     }
