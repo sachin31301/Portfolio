@@ -2,6 +2,26 @@
   "closed": 1,
   "data": [
     {
+      "id": "I_kwDOGPNZe849W5c3",
+      "closed": false,
+      "title": "images",
+      "createdAt": "2021-10-18T17:42:49Z",
+      "url": "https://github.com/sachin31301/DEICAREERCHAT/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "DEICAREERCHAT",
+        "url": "https://github.com/sachin31301/DEICAREERCHAT",
+        "owner": {
+          "login": "sachin31301",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/59499244?u=ee0ec20247ace067d974bc5c1688c66c3120542c&v=4",
+          "url": "https://github.com/sachin31301"
+        }
+      }
+    },
+    {
       "id": "MDU6SXNzdWU3OTM5MDcyNzg=",
       "closed": false,
       "title": "BANNER",
@@ -102,6 +122,6 @@
       }
     }
   ],
-  "open": 4,
-  "totalCount": 5
+  "open": 5,
+  "totalCount": 6
 }

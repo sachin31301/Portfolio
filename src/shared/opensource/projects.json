@@ -107,24 +107,24 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnk0MDQyMTQ0NzM=",
-      "name": "FACEDEI-Frontend",
-      "createdAt": "2021-09-08T04:50:01Z",
-      "url": "https://github.com/sachin31301/FACEDEI-Frontend",
-      "description": "Face recognition based attendance system",
+      "id": "R_kgDOGPNZew",
+      "name": "DEICAREERCHAT",
+      "createdAt": "2021-10-18T17:25:34Z",
+      "url": "https://github.com/sachin31301/DEICAREERCHAT",
+      "description": "A personal social media application for studious dei students to share learnings and chat with each other",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         },
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         }
       ]
     }

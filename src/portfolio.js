@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Sachin Sharma",
   nickname: "ikigai_coder",
   subTitle:
-    "A Software Engineer who likes to work on Softwares and scalable  Application which uses modern technologies like machine learning  to create impact.",
+    "A Software Engineer who likes to work on Softwares and scalable  Application which uses modern technologies like machine learning  to create impact and have quite good experien",
   resumeLink:
     "https://drive.google.com/file/d/1kepy5kkB7R_3BuILO9luTIq6bMONajcg/view?usp=sharing",
   portfolio_repository: "https://github.com/Sachin1919/masterPortfolio",
@@ -498,6 +498,17 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
+        {
+          title: "InternShala Student partner",
+          company: "Internshala",
+          company_url: "https://internshala.com/",
+          logo_path: "google_logo.png",
+          duration: "June 2019 - April 2020",
+          location: "Remote",
+          description:
+            "Create Awareness among students how to get off campus Internships",
+          color: "#4285F4",
+        },
         {
           title: "InternShala Student partner",
           company: "Internshala",
